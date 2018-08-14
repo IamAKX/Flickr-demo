@@ -1,3 +1,5 @@
+<img src="https://github.com/IamAKX/Flickr-demo/blob/master/app/src/main/res/drawable/logo.png?raw=true" width="80" height="80" />
+
 # Flickr-demo
 
 You can download apk from [here](https://github.com/IamAKX/Flickr-demo/blob/master/app/release/flickr-demo.apk?raw=true)
