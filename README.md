@@ -9,4 +9,4 @@ You can download apk from [here](https://github.com/IamAKX/Flickr-demo/blob/mast
 
 ### Screens
 
-<img src="https://github.com/IamAKX/Flickr-demo/blob/master/screenshots/1.png?raw=true" width="225" height="400" /> <img src="https://github.com/IamAKX/Flickr-demo/blob/master/screenshots/2.png?raw=true" width="225" height="400" /> <img src="https://github.com/IamAKX/Flickr-demo/blob/master/screenshots/3.png?raw=true" width="225" height="400" />
+<img src="https://github.com/IamAKX/Flickr-demo/blob/master/screenshots/1.png?raw=true" width="225" height="400" />    <img src="https://github.com/IamAKX/Flickr-demo/blob/master/screenshots/2.png?raw=true" width="225" height="400" />    <img src="https://github.com/IamAKX/Flickr-demo/blob/master/screenshots/3.png?raw=true" width="225" height="400" />
